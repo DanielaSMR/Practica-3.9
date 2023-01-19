@@ -1,0 +1,41 @@
+body{
+    background: black;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+.valencia1{
+    float: left;
+}
+div{
+    position: relative;
+    left: 19%;
+    width: 500px;
+    height: 125px;
+}
+
+.almeria{
+    float: right;
+}
+
+p.entradas{
+    background-color: grey;
+    margin-left: 39%;
+    margin-right: 39%;
+    padding: 10px;
+    border: rgb(110, 110, 110) 2px solid;
+    padding: 3px 10px;
+  border: rgb(92, 91, 91) 2px solid;
+  border-radius: 20px;
+}
+
+p.dias{
+    color: orange;
+}
+p{
+    color:white;
+    text-align: center;
+}
